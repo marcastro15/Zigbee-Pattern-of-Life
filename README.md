@@ -4,9 +4,9 @@ ZigBee is a low-cost, low-power wireless protocol (IEEE 802.15.4) that is becomi
 
 #Requirements
 -------------
-Any Linux environment
-Knowledge of Wireshark
-Knowledge of Python, Matplotlib
+- Any Linux environment
+- Knowledge of Wireshark
+- Knowledge of Python, Matplotlib
 
 #Installation
 -------------
