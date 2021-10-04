@@ -11,7 +11,7 @@ ZigBee is a low-cost, low-power wireless protocol (IEEE 802.15.4) that is becomi
    + the application support (APS) layer
    + and the application framework (AF) layer.
 - Sample layers from zigbee_sample.pcap file
-   - <WPAN Layer>, <ZBEE_NWK Layer>, <ZBEE_APS Layer>
+   - <> <WPAN Layer>, <ZBEE_NWK Layer>, <ZBEE_APS Layer>
    - 22 54 5 1 Layers identified: [<WPAN Layer>]
    - 23 14 57 2 Layers identified: [<WPAN Layer>, <ZBEE_NWK Layer>]
    - 24 15 50 2 Layers identified: [<WPAN Layer>, <ZBEE_NWK Layer>]
