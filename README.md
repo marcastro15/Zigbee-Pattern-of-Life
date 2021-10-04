@@ -43,3 +43,9 @@ ZigBee is a low-cost, low-power wireless protocol (IEEE 802.15.4) that is becomi
 ---------------
 - Syntax: python3 program_file, parameter2_pcap_name
 - Example: python3 <filename>.py <pcap>
+  
+#Future Update
+---------------------------------
+1. Need to identify which field values to output to tables for Matplotlib for graphing for ML
+2. Create a baseline of a pattern of life of each device by using the values captured by Killerbee
+3. ????
