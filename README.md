@@ -4,9 +4,12 @@ ZigBee is a low-cost, low-power wireless protocol (IEEE 802.15.4) that is becomi
 
 #Mandatory PCAP Capture
 -----------------------
-- All pcaps must have identifiable zigbee layers when capturing traffic: The ZigBee specification is divided into five layers.
+- All pcaps must have identifiable zigbee layers when capturing traffic: The ZigBee specification is divided into five layers as shown below. Depending upon the nature and complexity of the of the devices, they use 2 - 5 layers using naming conventions.
    + the physical (PHY) layer
-   = the medium access control (MAC) layer, the network (NWK) layer, the application support (APS) layer, and the application framework (AF) layer.
+   + the medium access control (MAC) layer
+   + the network (NWK) layer
+   + the application support (APS) layer
+   + and the application framework (AF) layer.
 - Ref: https://www.sciencedirect.com/topics/computer-science/zigbee-specification
  
 #Requirements
