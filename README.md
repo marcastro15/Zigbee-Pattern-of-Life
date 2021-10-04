@@ -16,18 +16,11 @@ ZigBee is a low-cost, low-power wireless protocol (IEEE 802.15.4) that is becomi
    + 23 14 57 2 Layers identified: [<WPAN Layer>, <ZBEE_NWK Layer>]
    + 24 15 50 2 Layers identified: [<WPAN Layer>, <ZBEE_NWK Layer>]
    + 25 55 57 2 Layers identified: [<WPAN Layer>, <ZBEE_NWK Layer>]
-   + 28 17 59 2 Layers identified: [<WPAN Layer>, <ZBEE_NWK Layer>]
-   + 29 56 77 2 Layers identified: [<WPAN Layer>, <ZBEE_NWK Layer>]
 - Sample captured layers from HP.pcapng
    + [<WPAN Layer>, <ZBEE_NWK Layer>]
    + [<WPAN Layer>, <ZBEE_NWK Layer>]
    + [<WPAN Layer>, <ZBEE_NWK Layer>]
    + [<WPAN Layer>, <ZBEE_NWK Layer>]
-   + [<WPAN Layer>, <ZBEE_NWK Layer>]
-   + [<WPAN Layer>, <ZBEE_NWK Layer>]
-   + [<WPAN Layer>, <ZBEE_NWK Layer>]
-   + [<WPAN Layer>, <ZBEE_NWK Layer>]
-
 - Ref: https://www.sciencedirect.com/topics/computer-science/zigbee-specification
  
 #Requirements
