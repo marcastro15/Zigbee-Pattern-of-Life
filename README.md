@@ -23,12 +23,16 @@ ZigBee is a low-cost, low-power wireless protocol (IEEE 802.15.4) that is becomi
    + WPAN Layer,  <ZBEE_NWK Layer>]
 - Ref: https://www.sciencedirect.com/topics/computer-science/zigbee-specification
  
-#Requirements
--------------
+#General Requirements
+---------------------
 - Any Linux environment
 - Knowledge of Wireshark
 - Knowledge of Python, Matplotlib
+
+#Special Requirements
+---------------------
 - Very Important: Understand Pyshark API with the corresponding Zigbee field values
+  + Read this paper first: https://www.sciencedirect.com/topics/computer-science/zigbee-specification#:~:text=The%20ZigBee%20specification%20is%20divided,application%20framework%20(AF)%20layer.
 
 #Installation
 -------------
@@ -46,8 +50,11 @@ ZigBee is a low-cost, low-power wireless protocol (IEEE 802.15.4) that is becomi
 - Example: python3 <filename>.py  
 - Note: You need to replace "d = Devices('z.pcap') #needs to replace this" with the correct pcap file.
   
-#Future Update
+#Future Update - Specify the requirement analysis
 ---------------------------------
-1. Need to identify which field values to output to tables for Matplotlib for graphing for ML
-2. Create a baseline of a pattern of life of each device by using the values captured by Killerbee
-3. ????
+I - Phase I
+1. Requirements Analysis: Need to identify which field values to correlate to output to tables 
+2. Create Plots based on #2 item
+3. Create a baseline of a pattern of life of each device by using the values captured by Killerbee
+II - Phase II
+1. Machine Learning
