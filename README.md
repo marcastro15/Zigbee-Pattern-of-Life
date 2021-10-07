@@ -47,8 +47,8 @@ ZigBee is a low-cost, low-power wireless protocol (IEEE 802.15.4) that is becomi
 #How to run it?
 ---------------
 - Syntax: python3 program_file 
-- Example: python3 <filename>.py  
-- Note: You need to replace "d = Devices('z.pcap') #needs to replace this" with the correct pcap file.
+- Example: python3 Device2.py pcapName output.txt  
+ 
   
 #Future Update - Specify the requirement analysis
 ---------------------------------
